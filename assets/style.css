@@ -1,0 +1,41 @@
+html, body {
+    height:100%;
+}
+
+.heading {
+    font-family: 'Averia Sans Libre', cursive;
+    font-size: 3.4em;
+    color: black !important;
+}
+
+.subheading {
+    font-family: 'Averia Sans Libre', cursive;
+    font-size: 1.5em;
+    color: black !important;
+}
+
+.info-heading {
+    font-family: 'Averia Sans Libre', cursive;
+    font-size: 2.9em;
+    color: black !important;
+}
+
+.info-subheading {
+    font-family: 'Averia Sans Libre', cursive;
+    font-size: 1.8em;
+    color: black !important;
+}
+
+.is-white {
+    color: white !important;
+}
+
+.big-down-arrow {
+    color: black !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px;
+}
+
+.weed-column {
+    padding: 1.8em;
+}
